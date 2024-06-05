@@ -10,6 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
+  <img align="center" alt="CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
  
 <br>
@@ -17,8 +18,8 @@
 ### Me siga nas Redes!
  
 <div>
-  <a href="https://wa.me/5541997419951" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-250366?style=for-the-badge&logo=whatsapp&logocolor=white" /></a>
+  <a href="https://wa.me/5541997419951" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-green" /></a>
   <a href="https://instagram.com/caiomurillosantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caio_santosctba@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" alvo ="_blank"></a>
+  <a href="mailto:caio_santosctba@hotmail.com"><img src="https://img.shields.io/badge/hotmail-blue"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
